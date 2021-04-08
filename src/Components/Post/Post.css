@@ -1,0 +1,22 @@
+.Post{
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    background: rgb(191, 172, 243);
+    padding-top: 0;
+    box-sizing: border-box;
+}
+.MainHeading{
+    font-size: 35px;
+    font-weight: 700;
+    font-family: 'Merriweather' sans-serif;
+    margin-top: 10px;
+    border-bottom: 1px solid black;
+}
+.Posts{
+    width: 40%;
+    height: 30vh;
+    text-align: center;
+    margin: 30px auto;
+    background:rgba(149, 196, 240, 0.952);
+}

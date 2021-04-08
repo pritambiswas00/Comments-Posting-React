@@ -1,0 +1,20 @@
+.Input {
+    display: block;
+    background: #ccc;
+    font-size: 25px;
+    outline: black;
+    margin: 15px auto;
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 2px;
+    box-shadow: 2px 4px 10px rgba(0,0,0,0);
+    box-sizing: border-box;
+    transition: all 0.3s;
+}
+.Input:hover{
+    box-shadow: 2px 4px 10px rgba(0,0,0,0.6);
+}
+.Input :focus{
+   outline: black;
+   color: grey;
+}
