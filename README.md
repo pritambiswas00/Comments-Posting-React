@@ -1,3 +1,3 @@
 # Getting Started with Create React App
 
-# Using Redux, React-Redux, and Thunk middleware where user comments and after submitting the button. It is display with the posts.
+# Used Redux, React-Redux, and Thunk middleware. Also, created custom Input components and  user comments, after submitting the button. It will display your posts with the all the Posts.
